@@ -110,5 +110,7 @@ Technology Stack:
         Messages are separated visually based on the sender’s identity.
 
 #OUTPUT
+
+ <img width="1356" height="679" alt="Image" src="https://github.com/user-attachments/assets/44194f58-1d53-4843-866f-288e32b75156" />
  
      
